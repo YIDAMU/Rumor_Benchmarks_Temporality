@@ -4,7 +4,7 @@ It’s about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chr
 
 
 
-If you use these four benchmarks, please also cite:
+If you use these four benchmarks (i.e., Twitter15&16, Weibo, and PHEME), please also cite:
 
 (i) Detect rumors in microblog posts using propagation structure via kernel learning. (https://aclanthology.org/P17-1066/)
 
