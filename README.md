@@ -2,7 +2,7 @@
 
 It’s about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chronological Splits (EACL 2023 Findings)
 
-Data splits see Data Splits.ipynb[https://github.com/YIDAMU/Rumor_Benchmarks_Temporality/blob/main/Data%20Splits.ipynb]
+Data splits see [Data Splits.ipynb](https://github.com/YIDAMU/Rumor_Benchmarks_Temporality/blob/main/Data%20Splits.ipynb)
 
 Preprint:
 
