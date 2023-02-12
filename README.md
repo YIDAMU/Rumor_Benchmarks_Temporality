@@ -5,8 +5,14 @@ It’s about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chr
 Data splits see [Data Splits.ipynb](https://github.com/YIDAMU/Rumor_Benchmarks_Temporality/blob/main/Data%20Splits.ipynb)
 
 Preprint:
-
-TBD
+'''bibtex
+@article{mu2023s,
+  title={It's about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chronological Splits},
+  author={Mu, Yida and Bontcheva, Kalina and Aletras, Nikolaos},
+  journal={arXiv preprint arXiv:2302.03147},
+  year={2023}
+}
+'''
 
 
 If you use these four benchmarks (i.e., Twitter15&16, Weibo, and PHEME), please also cite:
