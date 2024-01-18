@@ -6,12 +6,14 @@ Data splits see [Data Splits.ipynb](https://github.com/YIDAMU/Rumor_Benchmarks_T
 
 Preprint:
 ```bibtex
-@article{mu2023s,
-  title={It's about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chronological Splits},
+@inproceedings{mu2023s,
+  title={It’s about Time: Rethinking Evaluation on Rumor Detection Benchmarks using Chronological Splits},
   author={Mu, Yida and Bontcheva, Kalina and Aletras, Nikolaos},
-  journal={arXiv preprint arXiv:2302.03147},
+  booktitle={Findings of the Association for Computational Linguistics: EACL 2023},
+  pages={724--731},
   year={2023}
 }
+
 ```
 
 
